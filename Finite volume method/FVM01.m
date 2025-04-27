@@ -23,6 +23,7 @@ We implement a 3-point finite-volume scheme of the form:
 
 Hint: Use the periodicity at the boundaries, i.e., un_{-1} = un_{N-1} and un_{N} = un_{0}.
 ---------------------------------------------------------------------------
+refer to FVM01 problem statement.png
 %}
 
 
