@@ -29,7 +29,8 @@ Implement these schemes and:
 • Simulate the solution for t ∈ {0, 0.5, 1}
 • Animate the numerical solutions alongside the exact solution
 • For each scheme, compute the numerical error at T = 1 and determine the observed
-  order of convergence using grid resolutions N = 50, 100, 200, 400.
+  order of convergence using grid resolutions N =  200, 300, 
+  400.
 %}
 
 % Define parameters
