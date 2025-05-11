@@ -68,4 +68,4 @@ This example is based on:
 To run the simulation:
 
 ```bash
-lmp -in input07.lammps
+lmp -in input.lammps.txt
