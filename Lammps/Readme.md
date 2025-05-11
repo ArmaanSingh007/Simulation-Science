@@ -3,7 +3,7 @@
 This directory contains input and output files for a basic molecular dynamics simulation using [LAMMPS](https://lammps.sandia.gov/). The system models a **binary Lennard-Jones (LJ) fluid** with randomly distributed atoms of two types in a 3D periodic box.
 
 📽️ This project is part of a tutorial video available on YouTube:  
-**https://www.youtube.com/watch?v=Ohs1aVtOSOw** 
+**https://www.youtube.com/watch?v=zZWHIrLtZVs** 
 
 ---
 
