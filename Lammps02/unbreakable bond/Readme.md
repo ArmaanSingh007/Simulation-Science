@@ -8,7 +8,7 @@ This project demonstrates how to perform a molecular dynamics (MD) simulation of
 
 | File | Description |
 |------|-------------|
-| `input.lammps` | Main LAMMPS input script for the CNT deformation |
+| `input.lammps.txt` | Main LAMMPS input script for the CNT deformation |
 | `unbreakable.data` | Topology and atomic coordinates for the CNT |
 | `unbreakable.inc` | Force field parameters (LJ, bond, angle, dihedral) |
 | `dump.cnt.lammpstrj` | Output trajectory (generated after running the script) |
@@ -40,5 +40,5 @@ This example is based on:
 Make sure you have LAMMPS installed. Then, run the simulation with:
 
 ```bash
-lmp -in input.lammps
+lmp -in input.lammps.txt
 
