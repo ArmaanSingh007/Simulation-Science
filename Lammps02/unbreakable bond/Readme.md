@@ -27,6 +27,14 @@ This project demonstrates how to perform a molecular dynamics (MD) simulation of
 
 ---
 
+## 📚 Reference
+
+This example is based on:
+
+> Gravelle, S., Gissinger, J.R., & Kohlmeyer, A. (2025). *A Set of Tutorials for the LAMMPS Simulation Package*. [LiveCoMS Article](https://github.com/lammpstutorials/lammpstutorials-article)
+
+---
+
 ## ▶️ Running the Simulation
 
 Make sure you have LAMMPS installed. Then, run the simulation with:
