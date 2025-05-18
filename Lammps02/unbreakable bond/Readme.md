@@ -18,6 +18,8 @@ This project demonstrates how to perform a molecular dynamics (MD) simulation of
 📽️ This project is part of a tutorial video available on YouTube:  
 **https://www.youtube.com/watch?v=f_9pKfxA1gI** 
 
+---
+
 ## 🔬 Simulation Overview
 
 - **Simulation Type:** MD with tensile strain
